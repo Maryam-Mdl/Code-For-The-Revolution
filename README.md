@@ -1,7 +1,7 @@
 # Code For The Revolution
 Help build free, open-source and widely available tools to facilitate civil movements against authoritarian regimes
 
-### You know anything about code and are looking for your next project, check [**The Activist's Wishlist**]([The Activist's Wishlist.md](https://github.com/Maryam-Mdl/Code-For-The-Revolution/blob/main/The%20Activist's%20Wishlist.md#the-activists-wishlist))
+### You know anything about code and are looking for your next project, check ([The Activist's Wishlist](https://github.com/Maryam-Mdl/Code-For-The-Revolution/blob/main/The%20Activist's%20Wishlist.md#the-activists-wishlist))
 
 ### Are you a journalist, activist, or protester living under an authoritarian regime? Contribute to the Activist's Wishlist
 If you can think of any tool or resource you need, but doesn’t yet exist, **please reach out to maryam.mdl@proton.me**
