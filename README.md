@@ -6,4 +6,4 @@ You know anything about code and are looking for your next project? check out **
 Interested in contributing to the **Code for the Revolution** project in any way ? please reach out to maryam.mdl@proton.me
 
 **Are you a journalist, activist, or protester living under an authoritarian regime?**
-Can you think of any tool or resource you need, but doesn’t yet exist? **please reach out to maryam.mdl@proton.me**. Your input could help developers worldwide build solutions that make a real difference.
+Can you think of any tool or resource you need, but doesn’t yet exist? please reach out to maryam.mdl@proton.me. Your input could help developers worldwide build solutions that make a real difference.
