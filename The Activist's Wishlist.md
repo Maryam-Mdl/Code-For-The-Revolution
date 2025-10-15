@@ -8,7 +8,7 @@ If you have coding skills and are looking for a meaningful project, **check out 
 ## Tools for a decentralized leadership
 [Decentralized leadership](https://en.wikipedia.org/wiki/Decentralised) through social media has proven transformative for civil movements. Decentralized leadership gives protesters **greater fluidity** and makes it **harder for authorities to identify representatives for prosecution**.
 
-Hong Kong’s 2019 democracy movement unfolded in a largely decentralized way, earning praise as “impeccably organized” from the _Los Angeles Times_. In Nepal in 2025, Gen Z protesters coordinated[ through TikTok and Discord](https://www.reuters.com/world/asia-pacific/young-activists-who-toppled-nepals-government-now-picking-new-leaders-2025-09-14/), and managed to protest successfully into new elections, leading to the [**first ever state leader elected through Discord**](https://www.independent.co.uk/asia/south-asia/nepal-sushila-karki-new-prime-minister-discord-protests-b2826473.html).
+Hong Kong’s 2019 democracy movement unfolded in a largely decentralized way, and in Nepal in 2025, Gen Z protesters coordinated[ through TikTok and Discord](https://www.reuters.com/world/asia-pacific/young-activists-who-toppled-nepals-government-now-picking-new-leaders-2025-09-14/), and managed to protest successfully into new elections, leading to the [**first ever state leader elected through Discord**](https://www.independent.co.uk/asia/south-asia/nepal-sushila-karki-new-prime-minister-discord-protests-b2826473.html).
 
 **Yet, decentralized leadership also has its limitations**. As civil rights scholar Clayborne Carson observed about the Black Lives Matter protests: 
 
